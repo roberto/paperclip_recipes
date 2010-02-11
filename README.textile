@@ -1,0 +1,11 @@
+h1. About
+
+This repository has some full examples of this post: "Paperclip Recipes":http://roberto.peakhut.com/2010/01/14/paperclip_recipes
+
+* asynchronous upload to s3: model User
+
+h1. TODO
+
+* delaying the thumbnail generation
+* anonymous photos
+* saving photo dimensions
